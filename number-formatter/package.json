@@ -1,0 +1,27 @@
+{
+  "name": "@vaughan189/number-formatter",
+  "version": "0.1.0",
+  "description": "number-formatter",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.2"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaughan189/number-formatter.git"
+  },
+  "author": "Vaughan Po <vaughan188@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaughan189/number-formatter/issues"
+  },
+  "homepage": "https://github.com/vaughan189/number-formatter#readme"
+}
